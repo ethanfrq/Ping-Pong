@@ -13,3 +13,11 @@
  - GitHub : Ethan_frq
  - Discord : cfx.mcdo
  - Entreprise : VOOT  
+
+## Lunch
+
+Terminal
+ - cd Ton/Dossier/**
+  - Ouvrir le terminal
+   - Ecrire "./lunch"
+    - Bon jeux a toi !!!
