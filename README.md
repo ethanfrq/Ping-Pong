@@ -16,8 +16,9 @@
 
 ## Lunch
 
-Terminal
+```Terminal
  - cd Ton/Dossier/**
   - Ouvrir le terminal
    - Ecrire "./lunch"
     - Bon jeux a toi !!!
+```
